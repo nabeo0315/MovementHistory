@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="startButton" type="id">startButton</item>
+    <item name="tv1" type="id">tv1</item>
+    <item name="stopButton" type="id">stopButton</item>
+    <item name="mainTv" type="id">mainTv</item>
+    <item name="accX" type="id">accX</item>
+    <item name="accY" type="id">accY</item>
+    <item name="accZ" type="id">accZ</item>
+    <item name="pressure" type="id">pressure</item>
+    <item name="activity" type="id">activity</item>
+    <item name="steps" type="id">steps</item>
+    <item name="distance" type="id">distance</item>
+    <item name="s1" type="id">s1</item>
+    <item name="s2" type="id">s2</item>
+    <item name="s3" type="id">s3</item>
+    <item name="s4" type="id">s4</item>
+    <item name="s5" type="id">s5</item>
+    <item name="departure" type="id">departure</item>
+    <item name="arrow" type="id">arrow</item>
+    <item name="arrive" type="id">arrive</item>
+    <item name="listView" type="id">listView</item>
+    <item name="recordTv" type="id" />
+    <item name="recordView" type="id">recordView</item>
+    <item name="checkDB" type="id">checkDB</item>
+    <item name="firstTime" type="id">firstTime</item>
+    <item name="secondTime" type="id">secondTime</item>
+    <item name="selectFile" type="id">selectFile</item>
+</resources>
